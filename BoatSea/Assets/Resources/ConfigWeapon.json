@@ -1,0 +1,230 @@
+{
+"Weapons":{
+  "BasicProjectile": {
+  "Description":"this is cool weapon",
+  	"PriceInCoin": 5,
+  	"PriceInGears": 0,
+  	"Damage": 1,
+    "speed": 8,
+    "FlightClassic":5,
+    "FlightNewVawe":5,
+    "FireCooldown":1,
+    "AfterFireCooldown":0.2
+
+  },
+  
+  "BasicBomb": {
+  "Description":"this is cool weapon",
+   "PriceInCoin": 5,
+  	"PriceInGears": 0,
+  	"Damage": 1,
+    "speed": 0,
+    "FlightClassic":15,
+    "FlightNewVawe":15,
+    "FireCooldown":1,
+    "AfterFireCooldown":0.2
+
+  },
+  "MortalProjectile": {
+  "Description":"this is cool weapon",
+  "PriceInCoin": 5,
+  	"PriceInGears": 0,
+  	"Damage": 1,
+    "speed": 8,
+    "FlightClassic":5,
+    "FlightNewVawe":5,
+    "FireCooldown":1,
+    "AfterFireCooldown":0.2
+
+  },
+  "BasicTorpedo": {
+  "Description":"this is cool weapon",
+ 	"PriceInCoin": 5,
+  	"PriceInGears": 0,
+  	"Damage": 1,
+    "speed": 7,
+    "FlightClassic":5,
+    "FlightNewVawe":5,
+    "FireCooldown":1,
+    "AfterFireCooldown":0.25
+  },
+   "Missile": {
+   "Description":"this is cool weapon",
+ 	"PriceInCoin": 5,
+  	"PriceInGears": 0,
+  	"Damage": 1,
+    "speed": 7,
+    "FlightClassic":54,
+    "FlightNewVawe":75,
+    "FireCooldown":4.5,
+    "AfterFireCooldown":4.5
+  },
+   "DeepBomb": {
+   "Description":"this is cool weapon",
+ 	"PriceInCoin": 5,
+  	"PriceInGears": 0,
+  	"Damage": 1,
+    "speed": 7,
+    "FlightClassic":5,
+    "FlightNewVawe":5,
+    "FireCooldown":1,
+    "AfterFireCooldown":0.2
+  },
+  
+   "HomingMissile": {
+   "Description":"this is cool weapon",
+ 	"PriceInCoin": 5,
+  	"PriceInGears": 0,
+  	"Damage": 1,
+    "speed": 7,
+    "FlightClassic":5,
+    "FlightNewVawe":5,
+    "FireCooldown":1,
+    "AfterFireCooldown":0.2
+  },
+   "OneRicochet": {
+   "Description":"this is cool weapon",
+ 	"PriceInCoin": 5,
+  	"PriceInGears": 0,
+  	"Damage": 1,
+    "speed": 9,
+    "FlightClassic":5,
+    "FlightNewVawe":5,
+    "FireCooldown":1,
+    "AfterFireCooldown":0.2
+  },
+   "TwoRicochet": {
+   "Description":"this is cool weapon",
+ 	"PriceInCoin": 5,
+  	"PriceInGears": 0,
+  	"Damage": 1,
+    "speed": 9,
+    "FlightClassic":5,
+    "FlightNewVawe":5,
+    "FireCooldown":1,
+    "AfterFireCooldown":0.2
+  },
+   "Construct": {
+   "Description":"this is cool weapon",
+ 	"PriceInCoin": 5,
+  	"PriceInGears": 0,
+  	"Damage": 1,
+    "speed": 9,
+    "FlightClassic":5,
+    "FlightNewVawe":5,
+    "FireCooldown":1,
+    "AfterFireCooldown":0.2
+  },
+   "AdvanceConstruct": {
+   "Description":"this is cool weapon",
+ 	"PriceInCoin": 5,
+  	"PriceInGears": 0,
+  	"Damage": 1,
+    "speed": 9,
+    "FlightClassic":5,
+    "FlightNewVawe":5,
+    "FireCooldown":1,
+    "AfterFireCooldown":0.2
+  },
+   "AdvanceEnergy": {
+   "Description":"this is cool weapon",
+ 	"PriceInCoin": 5,
+  	"PriceInGears": 0,
+  	"Damage": 1,
+    "speed": 9,
+    "FlightClassic":5,
+    "FlightNewVawe":5,
+    "FireCooldown":1,
+    "AfterFireCooldown":0.2
+  },
+   "Energy": {
+   "Description":"this is cool weapon",
+ 	"PriceInCoin": 5,
+  	"PriceInGears": 0,
+  	"Damage": 1,
+    "speed": 9,
+    "FlightClassic":5,
+    "FlightNewVawe":5,
+    "FireCooldown":1,
+    "AfterFireCooldown":0.2
+  },
+   "BombBigRange": {
+   "Description":"this is cool weapon",
+ 	"PriceInCoin": 5,
+  	"PriceInGears": 0,
+  	"Damage": 1,
+    "speed": 9,
+    "FlightClassic":5,
+    "FlightNewVawe":5,
+    "FireCooldown":1,
+    "AfterFireCooldown":0.2
+  },
+   "BombBigDamage": {
+   "Description":"this is cool weapon",
+ 	"PriceInCoin": 5,
+  	"PriceInGears": 0,
+  	"Damage": 1,
+    "speed": 9,
+    "FlightClassic":5,
+    "FlightNewVawe":5,
+    "FireCooldown":1,
+    "AfterFireCooldown":0.2
+  },
+   "FrozenProjectile": {
+   "Description":"this is cool weapon",
+ 	"PriceInCoin": 5,
+  	"PriceInGears": 0,
+  	"Damage": 1,
+    "speed": 9,
+    "FlightClassic":5,
+    "FlightNewVawe":5,
+    "FireCooldown":1,
+    "AfterFireCooldown":0.2
+  },
+   "SuperTorpedo": {
+   "Description":"this is cool weapon",
+ 	"PriceInCoin": 5,
+  	"PriceInGears": 0,
+  	"Damage": 1,
+    "speed": 9,
+    "FlightClassic":5,
+    "FlightNewVawe":5,
+    "FireCooldown":1,
+    "AfterFireCooldown":0.2
+  },
+   "Napalm": {
+   "Description":"this is cool weapon",
+ 	"PriceInCoin": 5,
+  	"PriceInGears": 0,
+  	"Damage": 1,
+    "speed": 9,
+    "FlightClassic":5,
+    "FlightNewVawe":5,
+    "FireCooldown":1,
+    "AfterFireCooldown":0.2
+  },
+   "BilliardMissile": {
+   "Description":"this is cool weapon",
+ 	"PriceInCoin": 5,
+  	"PriceInGears": 0,
+  	"Damage": 1,
+    "speed": 9,
+    "FlightClassic":5,
+    "FlightNewVawe":5,
+    "FireCooldown":1,
+    "AfterFireCooldown":0.2
+  },
+   "CoolBilliardMissile": {
+   "Description":"this is cool weapon",
+ 	"PriceInCoin": 5,
+  	"PriceInGears": 0,
+  	"Damage": 1,
+    "speed": 9,
+    "FlightClassic":5,
+    "FlightNewVawe":5,
+    "FireCooldown":1,
+    "AfterFireCooldown":0.2
+  }
+   
+ }
+}

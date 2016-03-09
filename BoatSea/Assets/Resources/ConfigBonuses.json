@@ -1,0 +1,33 @@
+{
+"Bonuses":{
+    
+  "Health": {
+      "Value":1,
+      "Time":30
+  },
+  "TwoShoot": {
+ 	  "Value":2,
+	  "Time":30
+  },
+  "TwoSpeed": {
+ 	  "Value":1,
+	  "Time":30
+  },
+  "Immortal": {
+ 	  "Value":3,
+	  "Time":30
+  },
+  "Invisible": {
+ 	  "Value":0.3,
+	  "Time":30
+  },
+  "Shield": {
+ 	  "Value":1,
+	  "Time":30
+  },
+   "Destroyer": {
+ 	  "Value":1,
+	  "Time":30
+  } 
+ }
+}

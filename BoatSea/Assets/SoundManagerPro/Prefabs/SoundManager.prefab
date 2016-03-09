@@ -1,0 +1,352 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400000}
+  - 114: {fileID: 11400000}
+  - 82: {fileID: 8200002}
+  - 82: {fileID: 8200000}
+  m_Layer: 0
+  m_Name: SoundManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+--- !u!82 &8200000
+AudioSource:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_audioClip: {fileID: 0}
+  m_PlayOnAwake: 1
+  m_Volume: 0
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+--- !u!82 &8200002
+AudioSource:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_audioClip: {fileID: 0}
+  m_PlayOnAwake: 1
+  m_Volume: 0
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 617da7e6dc6c82f43988a70b1b7fd69e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  helpOn: 1
+  showInfo: 0
+  showDev: 0
+  showList: 0
+  showAdd: 0
+  showSFX: 1
+  showSFXDetails: 00000000000000000000000000000000000000000000000000000000010000000000
+  groupAddIndex: 11
+  autoPrepoolAmount: 0
+  showAsGrouped: 1
+  soundConnections:
+  - level: DemoScene
+    isCustomLevel: 0
+    soundsToPlay:
+    - {fileID: 8300000, guid: bce9b44e46193024ba37e78d3ada7700, type: 3}
+    - {fileID: 8300000, guid: 6e7f20f3cc6466a40b676c631b33e4e6, type: 3}
+    - {fileID: 8300000, guid: 08d0fcfa91da5cd429fb5aba2920e297, type: 3}
+    playMethod: 0
+    minDelay: 0
+    maxDelay: 0
+    delay: 0
+  audios:
+  - {fileID: 8200002}
+  - {fileID: 8200000}
+  currentLevel: 
+  currentSoundConnection:
+    level: 
+    isCustomLevel: 0
+    soundsToPlay: []
+    playMethod: 0
+    minDelay: 0
+    maxDelay: 0
+    delay: 0
+  crossDuration: 5
+  showDebug: 0
+  offTheBGM: 1
+  isPaused: 0
+  movingOnFromSong: 0
+  ignoreLevelLoad: 0
+  resourcesPath: Sounds/SFX
+  storedSFXs:
+  - {fileID: 8300000, guid: ef953d9845ebd3b4b9d414061f96bfa2, type: 3}
+  - {fileID: 8300000, guid: 430190b54815f7841b4992408ef38e7c, type: 3}
+  - {fileID: 8300000, guid: 87b67a627c55b9d4e92ba91195b1da99, type: 3}
+  - {fileID: 8300000, guid: ad9244b586d35c74d9a2b9ea5c1d1cb0, type: 3}
+  - {fileID: 8300000, guid: 6dfb778265d8a4148a2d9fc69a9240ea, type: 3}
+  - {fileID: 8300000, guid: a2105eebac0d8174ea399c5e7e73b44a, type: 3}
+  - {fileID: 8300000, guid: f97b81669a056224e8e9eb50bbed83d8, type: 3}
+  - {fileID: 8300000, guid: f0c2b109cd17ea747b2ed26b313947d3, type: 3}
+  - {fileID: 8300000, guid: 04d05ac8b5809414a8a70c79dce3b75a, type: 3}
+  - {fileID: 8300000, guid: 91287f4d8c3852745a7d97b7c3245a42, type: 3}
+  - {fileID: 8300000, guid: 25b06880cfdbe364c87d112acbb23458, type: 3}
+  - {fileID: 8300000, guid: e777ffd5a99d5ba44bde8d382b09db84, type: 3}
+  - {fileID: 8300000, guid: d30c67d9ac1690745b90d278239dab26, type: 3}
+  - {fileID: 8300000, guid: 715c0cba18f424c4c9b5588345b170f0, type: 3}
+  - {fileID: 8300000, guid: cd578affb55ad834d89e4bda418b580b, type: 3}
+  - {fileID: 8300000, guid: 67324d0d65ead1f448ff2fd4c9f1eb1b, type: 3}
+  - {fileID: 8300000, guid: 19061f3a261905e4cb841ac20eb062c0, type: 3}
+  - {fileID: 8300000, guid: 7830afdf3d20e8e4092d503b9e7ba931, type: 3}
+  - {fileID: 8300000, guid: 67e67360159429241b0aab431bb375a4, type: 3}
+  - {fileID: 8300000, guid: 7b399d571fefbd24a9e4022ed0761d8b, type: 3}
+  - {fileID: 8300000, guid: 38edb7602fa33924798dd8f33d4c0d24, type: 3}
+  - {fileID: 8300000, guid: 29639ea7bb443bd45bf0c141bdca040d, type: 3}
+  - {fileID: 8300000, guid: 2588db02b9abe8448992a471c5c51a89, type: 3}
+  - {fileID: 8300000, guid: 61ec30f4d3d776e46841b97b3d49ba4e, type: 3}
+  - {fileID: 8300000, guid: 690e350052c4a5a44aa2a00cc4fd462d, type: 3}
+  - {fileID: 8300000, guid: 00498a7c83b31e34082937168ea9a25b, type: 3}
+  - {fileID: 8300000, guid: 6e711837eb20c694e8de25ea98e6daac, type: 3}
+  - {fileID: 8300000, guid: c57c832821020454398221710da876bf, type: 3}
+  - {fileID: 8300000, guid: b96981870ab98a144a8fabfef0dfd11e, type: 3}
+  - {fileID: 8300000, guid: 03325aef744cc174b90ad13fc4bb3c4d, type: 3}
+  - {fileID: 8300000, guid: dc83eb57c2d09b64b91ca37bd0d130d9, type: 3}
+  - {fileID: 8300000, guid: 5cea17d779a2b35469e93680590d93d8, type: 3}
+  - {fileID: 8300000, guid: 91307fbb19bfc3241b92ef050a983ad2, type: 3}
+  - {fileID: 8300000, guid: 05a2787c15cd4394daa3205e72c079a1, type: 3}
+  unOwnedSFXObjects: []
+  sfxGroups:
+  - groupName: Shoot
+    specificCapAmount: -1
+    clips: []
+  - groupName: Engine
+    specificCapAmount: -1
+    clips: []
+  - groupName: Explosion
+    specificCapAmount: -1
+    clips: []
+  - groupName: FanfarePossitive
+    specificCapAmount: -1
+    clips: []
+  - groupName: FanfareNegative
+    specificCapAmount: -1
+    clips: []
+  - groupName: WaterSplash
+    specificCapAmount: -1
+    clips: []
+  - groupName: BombSplash
+    specificCapAmount: -1
+    clips: []
+  - groupName: ShipSunk
+    specificCapAmount: -1
+    clips: []
+  - groupName: MetalScratch
+    specificCapAmount: -1
+    clips: []
+  - groupName: Menu
+    specificCapAmount: -1
+    clips: []
+  - groupName: SerYes
+    specificCapAmount: -1
+    clips: []
+  clipToGroupKeys:
+  - ShootSound_1
+  - ShootSound_2
+  - ShootSound_3
+  - ShootSound_4
+  - ShootSound_5
+  - ShootSound_6
+  - BoatEngine_1(loop)
+  - ExplosionSound_1
+  - ExplosionSound_2
+  - FanfareSound_3
+  - FanfareSound_1
+  - FanfareSound_2
+  - FanfareSound_4
+  - FanfareSound_5
+  - FanfareSound_6
+  - WaterSplashSound_1
+  - WaterSplashSound_2
+  - WaterSplashSound_3
+  - BombSplashSound_1
+  - BombSplashSound_2
+  - ShipSunkSound_1
+  - ScreechingOfMetalSound_1
+  - ScreechingOfMetalSound_2
+  - ScreechingOfMetalSound_3
+  - BoatEngine_2(loop)
+  - BoatEngine_3(loop)
+  - BoatEngine_4(loop)
+  - MenuOpenNewWindow
+  - MenuClick
+  - YesSerSound_3
+  - YesSerSound_2
+  - YesSerSound_1
+  - YesSerSound_4
+  clipToGroupValues:
+  - Shoot
+  - Shoot
+  - Shoot
+  - Shoot
+  - Shoot
+  - Shoot
+  - Engine
+  - Explosion
+  - Explosion
+  - FanfarePossitive
+  - FanfarePossitive
+  - FanfarePossitive
+  - FanfarePossitive
+  - FanfarePossitive
+  - FanfareNegative
+  - WaterSplash
+  - WaterSplash
+  - WaterSplash
+  - BombSplash
+  - BombSplash
+  - ShipSunk
+  - MetalScratch
+  - MetalScratch
+  - MetalScratch
+  - Engine
+  - Engine
+  - Engine
+  - Menu
+  - Menu
+  - SerYes
+  - SerYes
+  - SerYes
+  - SerYes
+  offTheSFX: 0
+  capAmount: 15
+  sfxPrePoolAmounts: 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  SFXObjectLifetime: 10
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100000}
+  m_IsPrefabParent: 1
+  m_IsExploded: 1

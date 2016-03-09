@@ -1,0 +1,49 @@
+{
+"Upgrades":{
+  "None": {
+   "Value":1,
+   "Cost":5
+  },
+  
+  "Armor": {
+   "Cost":5,
+      "Value":1
+  },
+  "ArmorAdvance": {
+  "Cost":5,
+ 	  "Value":2
+  },
+  "FastShipShell": {
+  "Cost":5,
+ 	  "Value":1
+  },
+  "AcceleratorInf": {
+  "Cost":5,
+ 	  "Value":3
+  },
+  "Accelerator": {
+  "Cost":5,
+ 	  "Value":0.3
+  },
+  "RapidShot": {
+  "Cost":5,
+ 	  "Value":0.6
+  },
+  "FastShell": {
+  "Cost":5,
+ 	  "Value":10
+  },
+  "FastTorpede": {
+  "Cost":5,
+ 	  "Value":1
+  },
+  "IceHouseDestroy": {
+  "Cost":5,
+ 	  "Value":1
+  }
+  
+  
+  
+  
+ }
+}

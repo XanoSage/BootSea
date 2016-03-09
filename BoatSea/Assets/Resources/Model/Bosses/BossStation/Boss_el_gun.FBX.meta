@@ -1,0 +1,222 @@
+fileFormatVersion: 2
+guid: f10de3d316695064dab4467de9d6f1aa
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ch_shoot
+    100004: ch_shoot 1
+    100006: ch_shoot 10
+    100008: ch_shoot 11
+    100010: ch_shoot 12
+    100012: ch_shoot 13
+    100014: ch_shoot 14
+    100016: ch_shoot 15
+    100018: ch_shoot 2
+    100020: ch_shoot 3
+    100022: ch_shoot 4
+    100024: ch_shoot 5
+    100026: ch_shoot 6
+    100028: ch_shoot 7
+    100030: ch_shoot 8
+    100032: ch_shoot 9
+    100034: ch_shoot_flash
+    100036: CogWheel_01
+    100038: CogWheel_02
+    100040: CogWheel_03
+    100042: CogWheel_04
+    100044: gun_01
+    100046: gun_02
+    100048: gun_03
+    100050: gun_04
+    100052: gun_05
+    100054: gun_06
+    100056: gun_07
+    100058: gun_08
+    100060: gun_turel1_01
+    100062: gun_turel1_02
+    100064: gun_turel2_01
+    100066: gun_turel2_02
+    100068: gun_turel3_01
+    100070: gun_turel3_02
+    100072: gun_turel4_01
+    100074: gun_turel4_02
+    100076: thunderball_soot
+    100078: turel1
+    100080: turel2
+    100082: turel3
+    100084: turel4
+    400000: //RootNode
+    400002: ch_shoot
+    400004: ch_shoot 1
+    400006: ch_shoot 10
+    400008: ch_shoot 11
+    400010: ch_shoot 12
+    400012: ch_shoot 13
+    400014: ch_shoot 14
+    400016: ch_shoot 15
+    400018: ch_shoot 2
+    400020: ch_shoot 3
+    400022: ch_shoot 4
+    400024: ch_shoot 5
+    400026: ch_shoot 6
+    400028: ch_shoot 7
+    400030: ch_shoot 8
+    400032: ch_shoot 9
+    400034: ch_shoot_flash
+    400036: CogWheel_01
+    400038: CogWheel_02
+    400040: CogWheel_03
+    400042: CogWheel_04
+    400044: gun_01
+    400046: gun_02
+    400048: gun_03
+    400050: gun_04
+    400052: gun_05
+    400054: gun_06
+    400056: gun_07
+    400058: gun_08
+    400060: gun_turel1_01
+    400062: gun_turel1_02
+    400064: gun_turel2_01
+    400066: gun_turel2_02
+    400068: gun_turel3_01
+    400070: gun_turel3_02
+    400072: gun_turel4_01
+    400074: gun_turel4_02
+    400076: thunderball_soot
+    400078: turel1
+    400080: turel2
+    400082: turel3
+    400084: turel4
+    2300000: //RootNode
+    2300002: CogWheel_01
+    2300004: CogWheel_02
+    2300006: CogWheel_03
+    2300008: CogWheel_04
+    2300010: gun_01
+    2300012: gun_02
+    2300014: gun_03
+    2300016: gun_04
+    2300018: gun_05
+    2300020: gun_06
+    2300022: gun_07
+    2300024: gun_08
+    2300026: gun_turel1_01
+    2300028: gun_turel1_02
+    2300030: gun_turel2_01
+    2300032: gun_turel2_02
+    2300034: gun_turel3_01
+    2300036: gun_turel3_02
+    2300038: gun_turel4_01
+    2300040: gun_turel4_02
+    2300042: thunderball_soot
+    2300044: turel1
+    2300046: turel2
+    2300048: turel3
+    2300050: turel4
+    3300000: //RootNode
+    3300002: CogWheel_01
+    3300004: CogWheel_02
+    3300006: CogWheel_03
+    3300008: CogWheel_04
+    3300010: gun_01
+    3300012: gun_02
+    3300014: gun_03
+    3300016: gun_04
+    3300018: gun_05
+    3300020: gun_06
+    3300022: gun_07
+    3300024: gun_08
+    3300026: gun_turel1_01
+    3300028: gun_turel1_02
+    3300030: gun_turel2_01
+    3300032: gun_turel2_02
+    3300034: gun_turel3_01
+    3300036: gun_turel3_02
+    3300038: gun_turel4_01
+    3300040: gun_turel4_02
+    3300042: thunderball_soot
+    3300044: turel1
+    3300046: turel2
+    3300048: turel3
+    3300050: turel4
+    4300000: Station
+    4300002: gun_06
+    4300004: gun_05
+    4300006: gun_04
+    4300008: gun_03
+    4300010: gun_01
+    4300012: gun_02
+    4300014: gun_08
+    4300016: gun_07
+    4300018: thunderball_soot
+    4300020: CogWheel_03
+    4300022: CogWheel_04
+    4300024: CogWheel_01
+    4300026: CogWheel_02
+    4300028: turel3
+    4300030: gun_turel3_01
+    4300032: gun_turel3_02
+    4300034: turel2
+    4300036: gun_turel2_01
+    4300038: gun_turel2_02
+    4300040: turel4
+    4300042: gun_turel4_01
+    4300044: gun_turel4_02
+    4300046: turel1
+    4300048: gun_turel1_01
+    4300050: gun_turel1_02
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0199999996
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 0
+  userData: 

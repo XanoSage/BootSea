@@ -1,0 +1,103 @@
+fileFormatVersion: 2
+guid: e388c238541cb8045aaa8a9ea563d9d4
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: sm_square_7cell001
+    100004: sm_square_7cell_lights
+    100006: Fence_01
+    100008: Fence_02
+    100010: Fence_03
+    100012: Fence_04
+    100014: Torch_01
+    100016: Torch_02
+    400000: //RootNode
+    400002: sm_square_7cell001
+    400004: sm_square_7cell_lights
+    400006: Fence_01
+    400008: Fence_02
+    400010: Fence_03
+    400012: Fence_04
+    400014: Torch_01
+    400016: Torch_02
+    2300000: sm_square_7cell001
+    2300002: sm_square_7cell_lights
+    2300004: Fence_01
+    2300006: Fence_02
+    2300008: Fence_03
+    2300010: Fence_04
+    2300012: //RootNode
+    2300014: Torch_01
+    2300016: Torch_02
+    3300000: sm_square_7cell001
+    3300002: sm_square_7cell_lights
+    3300004: Fence_01
+    3300006: Fence_02
+    3300008: Fence_03
+    3300010: Fence_04
+    3300012: //RootNode
+    3300014: Torch_01
+    3300016: Torch_02
+    4300000: sm_square_7cell_lights
+    4300002: sm_square_7cell001
+    4300004: sm_square_7cell
+    4300006: Fence_04
+    4300008: Torch_02
+    4300010: Torch_01
+    4300012: Fence_01
+    4300014: Fence_02
+    4300016: Fence_03
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 0
+  userData: 

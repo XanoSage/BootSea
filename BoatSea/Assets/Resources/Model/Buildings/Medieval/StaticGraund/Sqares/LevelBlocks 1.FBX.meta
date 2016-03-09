@@ -1,0 +1,540 @@
+fileFormatVersion: 2
+guid: 229d7a009af230d419cbddc119db5309
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Block_corner_tile_005
+    100002: Block_corner_tile_006
+    100004: Block_corner_tile_007
+    100006: Block_corner_tile_009
+    100008: Block_Tile_
+    100010: Block_Tile_ 1
+    100012: Block_Tile_ 10
+    100014: Block_Tile_ 11
+    100016: Block_Tile_ 12
+    100018: Block_Tile_ 13
+    100020: Block_Tile_ 14
+    100022: Block_Tile_ 15
+    100024: Block_Tile_ 16
+    100026: Block_Tile_ 17
+    100028: Block_Tile_ 18
+    100030: Block_Tile_ 19
+    100032: Block_Tile_ 2
+    100034: Block_Tile_ 20
+    100036: Block_Tile_ 21
+    100038: Block_Tile_ 22
+    100040: Block_Tile_ 23
+    100042: Block_Tile_ 24
+    100044: Block_Tile_ 25
+    100046: Block_Tile_ 26
+    100048: Block_Tile_ 27
+    100050: Block_Tile_ 28
+    100052: Block_Tile_ 29
+    100054: Block_Tile_ 3
+    100056: Block_Tile_ 30
+    100058: Block_Tile_ 31
+    100060: Block_Tile_ 4
+    100062: Block_Tile_ 5
+    100064: Block_Tile_ 6
+    100066: Block_Tile_ 7
+    100068: Block_Tile_ 8
+    100070: Block_Tile_ 9
+    100072: //RootNode
+    100074: torch012
+    100076: torch015
+    100078: torch024
+    100080: torch029
+    100082: Block_01
+    100084: Block_02
+    100086: Block_03
+    100088: Block_04
+    100090: Block_05
+    100092: Block_06
+    100094: Block_07
+    100096: Block_08
+    100098: Block_09
+    100100: Block_10
+    100102: Block_11
+    100104: Block_12
+    100106: Block_13
+    100108: Block_14
+    100110: Block_15
+    100112: Block_16
+    100114: Block_Corner_01
+    100116: Block_Corner_02
+    100118: Block_Corner_03
+    100120: Block_Corner_04
+    100122: Fence_01
+    100124: Fence_02
+    100126: Fence_03
+    100128: Fence_04
+    100130: Fence_05
+    100132: Fence_06
+    100134: Fence_07
+    100136: Fence_08
+    100138: Fence_09
+    100140: Fence_10
+    100142: Fence_11
+    100144: Fence_12
+    100146: Fence_13
+    100148: Fence_14
+    100150: Fence_15
+    100152: Fence_16
+    100154: Torch_01
+    100156: Torch_02
+    100158: Torch_03
+    100160: Torch_04
+    100162: Torch_05
+    100164: Torch_06
+    100166: Torch_07
+    100168: Torch_08
+    100170: Torch_09
+    100172: Torch_10
+    100174: Torch_11
+    100176: Torch_12
+    100178: Torch_13
+    100180: Torch_14
+    100182: Torch_15
+    100184: Torch_16
+    100186: Torch_17
+    100188: Torch_18
+    100190: Torch_19
+    100192: Torch_20
+    400000: Block_corner_tile_005
+    400002: Block_corner_tile_006
+    400004: Block_corner_tile_007
+    400006: Block_corner_tile_009
+    400008: Block_Tile_
+    400010: Block_Tile_ 1
+    400012: Block_Tile_ 10
+    400014: Block_Tile_ 11
+    400016: Block_Tile_ 12
+    400018: Block_Tile_ 13
+    400020: Block_Tile_ 14
+    400022: Block_Tile_ 15
+    400024: Block_Tile_ 16
+    400026: Block_Tile_ 17
+    400028: Block_Tile_ 18
+    400030: Block_Tile_ 19
+    400032: Block_Tile_ 2
+    400034: Block_Tile_ 20
+    400036: Block_Tile_ 21
+    400038: Block_Tile_ 22
+    400040: Block_Tile_ 23
+    400042: Block_Tile_ 24
+    400044: Block_Tile_ 25
+    400046: Block_Tile_ 26
+    400048: Block_Tile_ 27
+    400050: Block_Tile_ 28
+    400052: Block_Tile_ 29
+    400054: Block_Tile_ 3
+    400056: Block_Tile_ 30
+    400058: Block_Tile_ 31
+    400060: Block_Tile_ 4
+    400062: Block_Tile_ 5
+    400064: Block_Tile_ 6
+    400066: Block_Tile_ 7
+    400068: Block_Tile_ 8
+    400070: Block_Tile_ 9
+    400072: //RootNode
+    400074: torch012
+    400076: torch015
+    400078: torch024
+    400080: torch029
+    400082: Block_01
+    400084: Block_02
+    400086: Block_03
+    400088: Block_04
+    400090: Block_05
+    400092: Block_06
+    400094: Block_07
+    400096: Block_08
+    400098: Block_09
+    400100: Block_10
+    400102: Block_11
+    400104: Block_12
+    400106: Block_13
+    400108: Block_14
+    400110: Block_15
+    400112: Block_16
+    400114: Block_Corner_01
+    400116: Block_Corner_02
+    400118: Block_Corner_03
+    400120: Block_Corner_04
+    400122: Fence_01
+    400124: Fence_02
+    400126: Fence_03
+    400128: Fence_04
+    400130: Fence_05
+    400132: Fence_06
+    400134: Fence_07
+    400136: Fence_08
+    400138: Fence_09
+    400140: Fence_10
+    400142: Fence_11
+    400144: Fence_12
+    400146: Fence_13
+    400148: Fence_14
+    400150: Fence_15
+    400152: Fence_16
+    400154: Torch_01
+    400156: Torch_02
+    400158: Torch_03
+    400160: Torch_04
+    400162: Torch_05
+    400164: Torch_06
+    400166: Torch_07
+    400168: Torch_08
+    400170: Torch_09
+    400172: Torch_10
+    400174: Torch_11
+    400176: Torch_12
+    400178: Torch_13
+    400180: Torch_14
+    400182: Torch_15
+    400184: Torch_16
+    400186: Torch_17
+    400188: Torch_18
+    400190: Torch_19
+    400192: Torch_20
+    2300000: Block_corner_tile_005
+    2300002: Block_corner_tile_006
+    2300004: Block_corner_tile_007
+    2300006: Block_corner_tile_009
+    2300008: Block_Tile_
+    2300010: Block_Tile_ 1
+    2300012: Block_Tile_ 10
+    2300014: Block_Tile_ 11
+    2300016: Block_Tile_ 12
+    2300018: Block_Tile_ 13
+    2300020: Block_Tile_ 14
+    2300022: Block_Tile_ 15
+    2300024: Block_Tile_ 16
+    2300026: Block_Tile_ 17
+    2300028: Block_Tile_ 18
+    2300030: Block_Tile_ 19
+    2300032: Block_Tile_ 2
+    2300034: Block_Tile_ 20
+    2300036: Block_Tile_ 21
+    2300038: Block_Tile_ 22
+    2300040: Block_Tile_ 23
+    2300042: Block_Tile_ 24
+    2300044: Block_Tile_ 25
+    2300046: Block_Tile_ 26
+    2300048: Block_Tile_ 27
+    2300050: Block_Tile_ 28
+    2300052: Block_Tile_ 29
+    2300054: Block_Tile_ 3
+    2300056: Block_Tile_ 30
+    2300058: Block_Tile_ 31
+    2300060: Block_Tile_ 4
+    2300062: Block_Tile_ 5
+    2300064: Block_Tile_ 6
+    2300066: Block_Tile_ 7
+    2300068: Block_Tile_ 8
+    2300070: Block_Tile_ 9
+    2300072: torch012
+    2300074: torch015
+    2300076: torch024
+    2300078: torch029
+    2300080: Block_01
+    2300082: Block_02
+    2300084: Block_03
+    2300086: Block_04
+    2300088: Block_05
+    2300090: Block_06
+    2300092: Block_07
+    2300094: Block_08
+    2300096: Block_09
+    2300098: Block_10
+    2300100: Block_11
+    2300102: Block_12
+    2300104: Block_13
+    2300106: Block_14
+    2300108: Block_15
+    2300110: Block_16
+    2300112: Block_Corner_01
+    2300114: Block_Corner_02
+    2300116: Block_Corner_03
+    2300118: Block_Corner_04
+    2300120: Fence_01
+    2300122: Fence_02
+    2300124: Fence_03
+    2300126: Fence_04
+    2300128: Fence_05
+    2300130: Fence_06
+    2300132: Fence_07
+    2300134: Fence_08
+    2300136: Fence_09
+    2300138: Fence_10
+    2300140: Fence_11
+    2300142: Fence_12
+    2300144: Fence_13
+    2300146: Fence_14
+    2300148: Fence_15
+    2300150: Fence_16
+    2300152: Torch_01
+    2300154: Torch_02
+    2300156: Torch_03
+    2300158: Torch_04
+    2300160: Torch_05
+    2300162: Torch_06
+    2300164: Torch_07
+    2300166: Torch_08
+    2300168: Torch_09
+    2300170: Torch_10
+    2300172: Torch_11
+    2300174: Torch_12
+    2300176: Torch_13
+    2300178: Torch_14
+    2300180: Torch_15
+    2300182: Torch_16
+    2300184: Torch_17
+    2300186: Torch_18
+    2300188: Torch_19
+    2300190: Torch_20
+    3300000: Block_corner_tile_005
+    3300002: Block_corner_tile_006
+    3300004: Block_corner_tile_007
+    3300006: Block_corner_tile_009
+    3300008: Block_Tile_
+    3300010: Block_Tile_ 1
+    3300012: Block_Tile_ 10
+    3300014: Block_Tile_ 11
+    3300016: Block_Tile_ 12
+    3300018: Block_Tile_ 13
+    3300020: Block_Tile_ 14
+    3300022: Block_Tile_ 15
+    3300024: Block_Tile_ 16
+    3300026: Block_Tile_ 17
+    3300028: Block_Tile_ 18
+    3300030: Block_Tile_ 19
+    3300032: Block_Tile_ 2
+    3300034: Block_Tile_ 20
+    3300036: Block_Tile_ 21
+    3300038: Block_Tile_ 22
+    3300040: Block_Tile_ 23
+    3300042: Block_Tile_ 24
+    3300044: Block_Tile_ 25
+    3300046: Block_Tile_ 26
+    3300048: Block_Tile_ 27
+    3300050: Block_Tile_ 28
+    3300052: Block_Tile_ 29
+    3300054: Block_Tile_ 3
+    3300056: Block_Tile_ 30
+    3300058: Block_Tile_ 31
+    3300060: Block_Tile_ 4
+    3300062: Block_Tile_ 5
+    3300064: Block_Tile_ 6
+    3300066: Block_Tile_ 7
+    3300068: Block_Tile_ 8
+    3300070: Block_Tile_ 9
+    3300072: torch012
+    3300074: torch015
+    3300076: torch024
+    3300078: torch029
+    3300080: Block_01
+    3300082: Block_02
+    3300084: Block_03
+    3300086: Block_04
+    3300088: Block_05
+    3300090: Block_06
+    3300092: Block_07
+    3300094: Block_08
+    3300096: Block_09
+    3300098: Block_10
+    3300100: Block_11
+    3300102: Block_12
+    3300104: Block_13
+    3300106: Block_14
+    3300108: Block_15
+    3300110: Block_16
+    3300112: Block_Corner_01
+    3300114: Block_Corner_02
+    3300116: Block_Corner_03
+    3300118: Block_Corner_04
+    3300120: Fence_01
+    3300122: Fence_02
+    3300124: Fence_03
+    3300126: Fence_04
+    3300128: Fence_05
+    3300130: Fence_06
+    3300132: Fence_07
+    3300134: Fence_08
+    3300136: Fence_09
+    3300138: Fence_10
+    3300140: Fence_11
+    3300142: Fence_12
+    3300144: Fence_13
+    3300146: Fence_14
+    3300148: Fence_15
+    3300150: Fence_16
+    3300152: Torch_01
+    3300154: Torch_02
+    3300156: Torch_03
+    3300158: Torch_04
+    3300160: Torch_05
+    3300162: Torch_06
+    3300164: Torch_07
+    3300166: Torch_08
+    3300168: Torch_09
+    3300170: Torch_10
+    3300172: Torch_11
+    3300174: Torch_12
+    3300176: Torch_13
+    3300178: Torch_14
+    3300180: Torch_15
+    3300182: Torch_16
+    3300184: Torch_17
+    3300186: Torch_18
+    3300188: Torch_19
+    3300190: Torch_20
+    4300000: Block_corner_tile_007
+    4300002: Block_corner_tile_009
+    4300004: Block_corner_tile_006
+    4300006: Block_corner_tile_005
+    4300008: Block_Tile_
+    4300010: Block_Tile_
+    4300012: Block_Tile_
+    4300014: Block_Tile_
+    4300016: Block_Tile_
+    4300018: Block_Tile_
+    4300020: Block_Tile_
+    4300022: Block_Tile_
+    4300024: Block_Tile_
+    4300026: Block_Tile_
+    4300028: Block_Tile_
+    4300030: Block_Tile_
+    4300032: Block_Tile_
+    4300034: Block_Tile_
+    4300036: Block_Tile_
+    4300038: Block_Tile_
+    4300040: Block_Tile_
+    4300042: Block_Tile_
+    4300044: Block_Tile_
+    4300046: Block_Tile_
+    4300048: Block_Tile_
+    4300050: Block_Tile_
+    4300052: Block_Tile_
+    4300054: Block_Tile_
+    4300056: Block_Tile_
+    4300058: Block_Tile_
+    4300060: Block_Tile_
+    4300062: Block_Tile_
+    4300064: Block_Tile_
+    4300066: Block_Tile_
+    4300068: Block_Tile_
+    4300070: Block_Tile_
+    4300072: torch029
+    4300074: torch024
+    4300076: torch015
+    4300078: torch012
+    4300080: Block_Corner_01
+    4300082: Torch_04
+    4300084: Block_Corner_02
+    4300086: Torch_02
+    4300088: Block_Corner_03
+    4300090: Torch_03
+    4300092: Block_Corner_04
+    4300094: Torch_01
+    4300096: Block_13
+    4300098: Torch_13
+    4300100: Fence_15
+    4300102: Block_14
+    4300104: Fence_16
+    4300106: Torch_14
+    4300108: Block_15
+    4300110: Torch_15
+    4300112: Fence_14
+    4300114: Block_16
+    4300116: Fence_13
+    4300118: Torch_16
+    4300120: Block_12
+    4300122: Fence_12
+    4300124: Torch_12
+    4300126: Block_11
+    4300128: Torch_11
+    4300130: Fence_11
+    4300132: Block_10
+    4300134: Fence_10
+    4300136: Torch_10
+    4300138: Block_03
+    4300140: Torch_19
+    4300142: Fence_03
+    4300144: Block_01
+    4300146: Fence_02
+    4300148: Torch_17
+    4300150: Block_02
+    4300152: Torch_18
+    4300154: Fence_01
+    4300156: Block_04
+    4300158: Fence_04
+    4300160: Torch_20
+    4300162: Block_05
+    4300164: Torch_05
+    4300166: Fence_05
+    4300168: Block_08
+    4300170: Fence_08
+    4300172: Torch_08
+    4300174: Block_09
+    4300176: Fence_09
+    4300178: Torch_09
+    4300180: Block_06
+    4300182: Torch_06
+    4300184: Fence_06
+    4300186: Block_07
+    4300188: Torch_07
+    4300190: Fence_07
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 0
+  userData: 

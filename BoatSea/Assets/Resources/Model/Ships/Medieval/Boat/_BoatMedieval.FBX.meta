@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: 686d0b938340da145ad45314150b72c0
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: _accelerator
+    100002: _armor
+    100004: _Big_turbo
+    100006: //RootNode
+    100008: _constant_accelerator
+    100010: _fast_projectiles
+    100012: _heavy_Armor
+    100014: _heavy_Armor_2
+    100016: _rapid_firing_gun
+    100018: _shoot
+    100020: _trawl
+    100022: _turbo
+    100024: _turbo 1
+    100026: CogWhell2_rotate
+    100028: CogWhell_rotate
+    100030: Gun
+    100032: gunMask
+    100034: Hull
+    400000: _accelerator
+    400002: _armor
+    400004: _Big_turbo
+    400006: //RootNode
+    400008: _constant_accelerator
+    400010: _fast_projectiles
+    400012: _heavy_Armor
+    400014: _heavy_Armor_2
+    400016: _rapid_firing_gun
+    400018: _shoot
+    400020: _trawl
+    400022: _turbo
+    400024: _turbo 1
+    400026: CogWhell2_rotate
+    400028: CogWhell_rotate
+    400030: Gun
+    400032: gunMask
+    400034: Hull
+    2300000: _accelerator
+    2300002: _armor
+    2300004: //RootNode
+    2300006: _constant_accelerator
+    2300008: _fast_projectiles
+    2300010: _heavy_Armor
+    2300012: _heavy_Armor_2
+    2300014: _rapid_firing_gun
+    2300016: _trawl
+    2300018: CogWhell2_rotate
+    2300020: CogWhell_rotate
+    2300022: Gun
+    2300024: gunMask
+    2300026: Hull
+    3300000: _accelerator
+    3300002: _armor
+    3300004: //RootNode
+    3300006: _constant_accelerator
+    3300008: _fast_projectiles
+    3300010: _heavy_Armor
+    3300012: _heavy_Armor_2
+    3300014: _rapid_firing_gun
+    3300016: _trawl
+    3300018: CogWhell2_rotate
+    3300020: CogWhell_rotate
+    3300022: Gun
+    3300024: gunMask
+    3300026: Hull
+    4300000: Hull
+    4300002: CogWhell2_rotate
+    4300004: gunMask
+    4300006: Gun
+    4300008: _heavy_Armor
+    4300010: _armor
+    4300012: _heavy_Armor_2
+    4300014: _trawl
+    4300016: _rapid_firing_gun
+    4300018: _constant_accelerator
+    4300020: _accelerator
+    4300022: CogWhell_rotate
+    4300024: _fast_projectiles
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 0
+  userData: 

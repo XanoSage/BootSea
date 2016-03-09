@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: 311eb995488357c48a83e889ba6eddba
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: EditableMesh
+    100002: EditableMeshBig
+    100004: EditableMeshMedium
+    100006: EdMesh
+    100008: Gate
+    100010: gate_02
+    100012: gate_02_1
+    100014: gate_02_2
+    100016: gate_02_3
+    100018: gate_02_4
+    100020: //RootNode
+    100022: Tower_L
+    100024: Tower_R
+    100026: box_01
+    100028: box_02
+    100030: Object001
+    100032: Object002
+    100034: Object003
+    100036: Object004
+    400000: EditableMesh
+    400002: EditableMeshBig
+    400004: EditableMeshMedium
+    400006: EdMesh
+    400008: Gate
+    400010: gate_02
+    400012: gate_02_1
+    400014: gate_02_2
+    400016: gate_02_3
+    400018: gate_02_4
+    400020: //RootNode
+    400022: Tower_L
+    400024: Tower_R
+    400026: box_01
+    400028: box_02
+    400030: Object001
+    400032: Object002
+    400034: Object003
+    400036: Object004
+    2300000: EditableMesh
+    2300002: EditableMeshBig
+    2300004: EditableMeshMedium
+    2300006: gate_02_1
+    2300008: gate_02_2
+    2300010: gate_02_3
+    2300012: gate_02_4
+    2300014: Tower_L
+    2300016: Tower_R
+    2300018: box_01
+    2300020: box_02
+    2300022: Object001
+    2300024: Object002
+    2300026: Object003
+    2300028: Object004
+    3300000: EditableMesh
+    3300002: EditableMeshBig
+    3300004: EditableMeshMedium
+    3300006: gate_02_1
+    3300008: gate_02_2
+    3300010: gate_02_3
+    3300012: gate_02_4
+    3300014: Tower_L
+    3300016: Tower_R
+    3300018: box_01
+    3300020: box_02
+    3300022: Object001
+    3300024: Object002
+    3300026: Object003
+    3300028: Object004
+    4300000: EditableMeshBig
+    4300002: EditableMeshMedium
+    4300004: EditableMesh
+    4300006: Tower_L
+    4300008: gate_02_1
+    4300010: gate_02_2
+    4300012: Tower_R
+    4300014: gate_02_3
+    4300016: gate_02_4
+    4300018: box_02
+    4300020: box_01
+    4300022: Object001
+    4300024: Object002
+    4300026: Object004
+    4300028: Object003
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations:
+    - name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 250
+      wrapMode: 4
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 1
+  userData: 

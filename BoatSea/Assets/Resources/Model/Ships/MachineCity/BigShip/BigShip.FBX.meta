@@ -1,0 +1,115 @@
+fileFormatVersion: 2
+guid: 5e03d6f560d49f342908b9819d10e6fc
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Big_wheel_rotate
+    100002: big_wheel_rotate
+    100004: big_wheel_rotate 1
+    100006: //RootNode
+    100008: canon_left
+    100010: canon_right
+    100012: ch_shoot_01
+    100014: ch_shoot_02
+    100016: ch_smoke_01
+    100018: ch_smoke_02
+    100020: small_wheel_rotate
+    100022: small_wheel_rotate 1
+    100024: small_wheel_rotate001
+    100026: smoke_tube_01
+    100028: smoke_tube_02
+    400000: Big_wheel_rotate
+    400002: big_wheel_rotate
+    400004: big_wheel_rotate 1
+    400006: //RootNode
+    400008: canon_left
+    400010: canon_right
+    400012: ch_shoot_01
+    400014: ch_shoot_02
+    400016: ch_smoke_01
+    400018: ch_smoke_02
+    400020: small_wheel_rotate
+    400022: small_wheel_rotate 1
+    400024: small_wheel_rotate001
+    400026: smoke_tube_01
+    400028: smoke_tube_02
+    2300000: big_wheel_rotate
+    2300002: big_wheel_rotate 1
+    2300004: //RootNode
+    2300006: canon_left
+    2300008: canon_right
+    2300010: small_wheel_rotate 1
+    2300012: small_wheel_rotate001
+    2300014: smoke_tube_01
+    2300016: smoke_tube_02
+    3300000: big_wheel_rotate
+    3300002: big_wheel_rotate 1
+    3300004: //RootNode
+    3300006: canon_left
+    3300008: canon_right
+    3300010: small_wheel_rotate 1
+    3300012: small_wheel_rotate001
+    3300014: smoke_tube_01
+    3300016: smoke_tube_02
+    4300000: BigShip_hull
+    4300002: canon_left
+    4300004: canon_right
+    4300006: smoke_tube_01
+    4300008: smoke_tube_02
+    4300010: small_wheel_rotate
+    4300012: small_wheel_rotate001
+    4300014: big_wheel_rotate
+    4300016: big_wheel_rotate
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.20000005
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 0
+    normalImportMode: 0
+    tangentImportMode: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 0
+  userData: 

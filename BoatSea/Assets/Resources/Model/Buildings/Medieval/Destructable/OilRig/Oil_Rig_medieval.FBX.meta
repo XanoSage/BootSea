@@ -1,0 +1,145 @@
+fileFormatVersion: 2
+guid: da3d4f486483f6541a462e6b7d4c842d
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Object116
+    100002: //RootNode
+    100004: oilrig_02
+    100006: oilrig_02_02
+    100008: oilrig_02_03
+    100010: oilrig_02_04
+    100012: oilrig_02_05
+    100014: oilrig_02_06
+    100016: oilrig_02_007
+    100018: Object001
+    100020: Object004
+    100022: Object005
+    100024: Object006
+    100026: oilrig_02_008
+    400000: Object116
+    400002: //RootNode
+    400004: oilrig_02
+    400006: oilrig_02_02
+    400008: oilrig_02_03
+    400010: oilrig_02_04
+    400012: oilrig_02_05
+    400014: oilrig_02_06
+    400016: oilrig_02_007
+    400018: Object001
+    400020: Object004
+    400022: Object005
+    400024: Object006
+    400026: oilrig_02_008
+    2300000: oilrig_02
+    2300002: oilrig_02_02
+    2300004: oilrig_02_03
+    2300006: oilrig_02_04
+    2300008: oilrig_02_05
+    2300010: oilrig_02_06
+    2300012: oilrig_02_007
+    2300014: Object001
+    2300016: Object004
+    2300018: Object005
+    2300020: Object006
+    2300022: oilrig_02_008
+    3300000: oilrig_02
+    3300002: oilrig_02_02
+    3300004: oilrig_02_03
+    3300006: oilrig_02_04
+    3300008: oilrig_02_05
+    3300010: oilrig_02_06
+    3300012: oilrig_02_007
+    3300014: Object001
+    3300016: Object004
+    3300018: Object005
+    3300020: Object006
+    3300022: oilrig_02_008
+    4300000: oilrig_02_03
+    4300002: oilrig_02_02
+    4300004: oilrig_02
+    4300006: oilrig_02_04
+    4300008: oilrig_02_05
+    4300010: oilrig_02_06
+    4300012: oilrig_02_007
+    4300014: Object004
+    4300016: Object001
+    4300018: oilrig_02_008
+    4300020: Object005
+    4300022: Object006
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations:
+    - name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 50
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 1
+  userData: 

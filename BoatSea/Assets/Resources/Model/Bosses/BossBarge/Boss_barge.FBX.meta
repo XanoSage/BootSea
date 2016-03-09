@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: 659bde82190440c49aef5da515176a2f
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: back_gun_01
+    100002: back_gun_02
+    100004: back_gun_03
+    100006: //RootNode
+    100008: ch_shoot
+    100010: ch_shoot 1
+    100012: ch_shoot 10
+    100014: ch_shoot 11
+    100016: ch_shoot 12
+    100018: ch_shoot 13
+    100020: ch_shoot 2
+    100022: ch_shoot 3
+    100024: ch_shoot 4
+    100026: ch_shoot 5
+    100028: ch_shoot 6
+    100030: ch_shoot 7
+    100032: ch_shoot 8
+    100034: ch_shoot 9
+    100036: ch_smoke
+    100038: ch_smoke 1
+    100040: ch_smoke 2
+    100042: front_gun_01
+    100044: front_gun_02
+    100046: front_gun_03
+    100048: left_cogwheel_rotate
+    100050: left_gun_01
+    100052: left_gun_02
+    100054: left_gun_03
+    100056: left_gun_04
+    100058: right_cogwheel_rotate
+    100060: right_gun_01
+    100062: right_gun_02
+    100064: right_gun_03
+    100066: right_gun_04
+    100068: smoke_tube_01
+    100070: smoke_tube_02
+    100072: smoke_tube_03
+    100074: up_cogwheel_rotate
+    400000: back_gun_01
+    400002: back_gun_02
+    400004: back_gun_03
+    400006: //RootNode
+    400008: ch_shoot
+    400010: ch_shoot 1
+    400012: ch_shoot 10
+    400014: ch_shoot 11
+    400016: ch_shoot 12
+    400018: ch_shoot 13
+    400020: ch_shoot 2
+    400022: ch_shoot 3
+    400024: ch_shoot 4
+    400026: ch_shoot 5
+    400028: ch_shoot 6
+    400030: ch_shoot 7
+    400032: ch_shoot 8
+    400034: ch_shoot 9
+    400036: ch_smoke
+    400038: ch_smoke 1
+    400040: ch_smoke 2
+    400042: front_gun_01
+    400044: front_gun_02
+    400046: front_gun_03
+    400048: left_cogwheel_rotate
+    400050: left_gun_01
+    400052: left_gun_02
+    400054: left_gun_03
+    400056: left_gun_04
+    400058: right_cogwheel_rotate
+    400060: right_gun_01
+    400062: right_gun_02
+    400064: right_gun_03
+    400066: right_gun_04
+    400068: smoke_tube_01
+    400070: smoke_tube_02
+    400072: smoke_tube_03
+    400074: up_cogwheel_rotate
+    2300000: back_gun_01
+    2300002: back_gun_02
+    2300004: back_gun_03
+    2300006: //RootNode
+    2300008: front_gun_01
+    2300010: front_gun_02
+    2300012: front_gun_03
+    2300014: left_cogwheel_rotate
+    2300016: left_gun_01
+    2300018: left_gun_02
+    2300020: left_gun_03
+    2300022: left_gun_04
+    2300024: right_cogwheel_rotate
+    2300026: right_gun_01
+    2300028: right_gun_02
+    2300030: right_gun_03
+    2300032: right_gun_04
+    2300034: smoke_tube_01
+    2300036: smoke_tube_02
+    2300038: smoke_tube_03
+    2300040: up_cogwheel_rotate
+    3300000: back_gun_01
+    3300002: back_gun_02
+    3300004: back_gun_03
+    3300006: //RootNode
+    3300008: front_gun_01
+    3300010: front_gun_02
+    3300012: front_gun_03
+    3300014: left_cogwheel_rotate
+    3300016: left_gun_01
+    3300018: left_gun_02
+    3300020: left_gun_03
+    3300022: left_gun_04
+    3300024: right_cogwheel_rotate
+    3300026: right_gun_01
+    3300028: right_gun_02
+    3300030: right_gun_03
+    3300032: right_gun_04
+    3300034: smoke_tube_01
+    3300036: smoke_tube_02
+    3300038: smoke_tube_03
+    3300040: up_cogwheel_rotate
+    4300000: hull
+    4300002: left_gun_01
+    4300004: left_gun_02
+    4300006: left_gun_03
+    4300008: left_gun_04
+    4300010: front_gun_01
+    4300012: front_gun_02
+    4300014: front_gun_03
+    4300016: right_gun_01
+    4300018: right_gun_02
+    4300020: right_gun_03
+    4300022: right_gun_04
+    4300024: back_gun_03
+    4300026: back_gun_02
+    4300028: back_gun_01
+    4300030: left_cogwheel_rotate
+    4300032: right_cogwheel_rotate
+    4300034: up_cogwheel_rotate
+    4300036: smoke_tube_03
+    4300038: smoke_tube_02
+    4300040: smoke_tube_01
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 0
+  userData: 

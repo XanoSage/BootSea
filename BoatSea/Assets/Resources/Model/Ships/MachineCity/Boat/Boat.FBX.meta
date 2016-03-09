@@ -1,0 +1,87 @@
+fileFormatVersion: 2
+guid: 0de25e12354fc0448b8c4203631a881b
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: canon_1
+    100004: canon_mask
+    100006: ch_shoot
+    100008: ch_smoke
+    100010: propeller_rotate
+    100012: smoke_tube
+    400000: //RootNode
+    400002: canon_1
+    400004: canon_mask
+    400006: ch_shoot
+    400008: ch_smoke
+    400010: propeller_rotate
+    400012: smoke_tube
+    2300000: //RootNode
+    2300002: canon_1
+    2300004: canon_mask
+    2300006: propeller_rotate
+    2300008: smoke_tube
+    3300000: //RootNode
+    3300002: canon_1
+    3300004: canon_mask
+    3300006: propeller_rotate
+    3300008: smoke_tube
+    4300000: Boat_hull
+    4300002: canon_mask
+    4300004: canon_1
+    4300006: smoke_tube
+    4300008: propeller_rotate
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 0
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 0
+  userData: 

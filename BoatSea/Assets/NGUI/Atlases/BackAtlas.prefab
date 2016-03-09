@@ -1,0 +1,291 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400000}
+  - 114: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: BackAtlas
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  material: {fileID: 2100000, guid: 3236d40d9b20dbe4ba3cdc18240c4bae, type: 2}
+  sprites:
+  - name: back_linkor
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 1280
+      width: 1024
+      height: 768
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 1280
+      width: 1024
+      height: 768
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Linkor_gothic_ico
+    outer:
+      serializedVersion: 2
+      x: 1025
+      y: 1853
+      width: 166
+      height: 91
+    inner:
+      serializedVersion: 2
+      x: 1025
+      y: 1853
+      width: 166
+      height: 91
+    rotated: 0
+    paddingLeft: .0481927693
+    paddingRight: .0662650615
+    paddingTop: .109890111
+    paddingBottom: .0219780225
+  - name: Kater_Med_ico
+    outer:
+      serializedVersion: 2
+      x: 1025
+      y: 1945
+      width: 169
+      height: 103
+    inner:
+      serializedVersion: 2
+      x: 1025
+      y: 1945
+      width: 169
+      height: 103
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: .0946745574
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Linkor_MS_ico
+    outer:
+      serializedVersion: 2
+      x: 1025
+      y: 1648
+      width: 147
+      height: 100
+    inner:
+      serializedVersion: 2
+      x: 1025
+      y: 1648
+      width: 147
+      height: 100
+    rotated: 0
+    paddingLeft: .10204082
+    paddingRight: .15646258
+    paddingTop: .0299999993
+    paddingBottom: 0
+  - name: Kater_gothic_ico
+    outer:
+      serializedVersion: 2
+      x: 1505
+      y: 1956
+      width: 111
+      height: 92
+    inner:
+      serializedVersion: 2
+      x: 1505
+      y: 1956
+      width: 111
+      height: 92
+    rotated: 0
+    paddingLeft: .360360354
+    paddingRight: .306306303
+    paddingTop: .0543478243
+    paddingBottom: .0652173907
+  - name: SM_gothic_ico
+    outer:
+      serializedVersion: 2
+      x: 1025
+      y: 1449
+      width: 130
+      height: 101
+    inner:
+      serializedVersion: 2
+      x: 1025
+      y: 1449
+      width: 130
+      height: 101
+    rotated: 0
+    paddingLeft: .215384617
+    paddingRight: .20769231
+    paddingTop: .00990098994
+    paddingBottom: .00990098994
+  - name: Linkor_Med_ico
+    outer:
+      serializedVersion: 2
+      x: 1025
+      y: 1551
+      width: 152
+      height: 96
+    inner:
+      serializedVersion: 2
+      x: 1025
+      y: 1551
+      width: 152
+      height: 96
+    rotated: 0
+    paddingLeft: .111842103
+    paddingRight: .105263159
+    paddingTop: .020833334
+    paddingBottom: .0520833321
+  - name: SM_MS_ico
+    outer:
+      serializedVersion: 2
+      x: 1195
+      y: 1857
+      width: 108
+      height: 97
+    inner:
+      serializedVersion: 2
+      x: 1195
+      y: 1857
+      width: 108
+      height: 97
+    rotated: 0
+    paddingLeft: .342592597
+    paddingRight: .370370358
+    paddingTop: .030927835
+    paddingBottom: .030927835
+  - name: SM_Med_ico
+    outer:
+      serializedVersion: 2
+      x: 1304
+      y: 1860
+      width: 109
+      height: 94
+    inner:
+      serializedVersion: 2
+      x: 1304
+      y: 1860
+      width: 109
+      height: 94
+    rotated: 0
+    paddingLeft: .366972476
+    paddingRight: .330275238
+    paddingTop: .0425531901
+    paddingBottom: .0531914905
+  - name: Kater_atlantis_ico
+    outer:
+      serializedVersion: 2
+      x: 1025
+      y: 1749
+      width: 143
+      height: 103
+    inner:
+      serializedVersion: 2
+      x: 1025
+      y: 1749
+      width: 143
+      height: 103
+    rotated: 0
+    paddingLeft: .125874132
+    paddingRight: .167832166
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Linkor_atlantis_ico
+    outer:
+      serializedVersion: 2
+      x: 1195
+      y: 1955
+      width: 180
+      height: 93
+    inner:
+      serializedVersion: 2
+      x: 1195
+      y: 1955
+      width: 180
+      height: 93
+    rotated: 0
+    paddingLeft: .027777778
+    paddingRight: 0
+    paddingTop: .0537634417
+    paddingBottom: .0537634417
+  - name: SM_Atlantis_ico
+    outer:
+      serializedVersion: 2
+      x: 1025
+      y: 1347
+      width: 129
+      height: 101
+    inner:
+      serializedVersion: 2
+      x: 1025
+      y: 1347
+      width: 129
+      height: 101
+    rotated: 0
+    paddingLeft: .232558146
+    paddingRight: .201550394
+    paddingTop: .00990098994
+    paddingBottom: .00990098994
+  - name: Kater_MS_ico
+    outer:
+      serializedVersion: 2
+      x: 1376
+      y: 1957
+      width: 128
+      height: 91
+    inner:
+      serializedVersion: 2
+      x: 1376
+      y: 1957
+      width: 128
+      height: 91
+    rotated: 0
+    paddingLeft: .15625
+    paddingRight: .2890625
+    paddingTop: .0659340695
+    paddingBottom: .0659340695
+  mCoordinates: 0
+  mPixelSize: 1
+  mReplacement: {fileID: 0}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100000}
+  m_IsPrefabParent: 1
+  m_IsExploded: 1

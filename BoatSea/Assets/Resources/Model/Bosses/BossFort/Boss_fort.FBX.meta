@@ -1,0 +1,361 @@
+fileFormatVersion: 2
+guid: 3273a0efed9e5704082f3cc8e9da117c
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: back_cogwheel
+    100002: back_gun_01
+    100004: back_gun_02
+    100006: back_gun_03
+    100008: back_wall
+    100010: //RootNode
+    100012: ch_shoot
+    100014: ch_shoot 1
+    100016: ch_shoot 10
+    100018: ch_shoot 11
+    100020: ch_shoot 12
+    100022: ch_shoot 13
+    100024: ch_shoot 2
+    100026: ch_shoot 3
+    100028: ch_shoot 4
+    100030: ch_shoot 5
+    100032: ch_shoot 6
+    100034: ch_shoot 7
+    100036: ch_shoot 8
+    100038: ch_shoot 9
+    100040: ch_shoot001
+    100042: ch_shoot002
+    100044: ch_shoot003
+    100046: ch_shoot004
+    100048: ch_shoot005
+    100050: ch_shoot006
+    100052: ch_shoot_flash
+    100054: front_cogwheel
+    100056: front_gun_01
+    100058: front_gun_02
+    100060: front_gun_03
+    100062: front_wall
+    100064: gan_tube
+    100066: gan_tube001
+    100068: gan_tube002
+    100070: gan_tube003
+    100072: Gun_left
+    100074: Gun_left001
+    100076: Gun_left002
+    100078: Gun_left003
+    100080: Gun_right
+    100082: Gun_right001
+    100084: Gun_right002
+    100086: Gun_right003
+    100088: left_cogwheel
+    100090: left_gun_01
+    100092: left_gun_02
+    100094: left_gun_03
+    100096: left_wall
+    100098: Object073
+    100100: Particle View 001
+    100102: right_cogwheel
+    100104: right_gun_01
+    100106: right_gun_02
+    100108: right_gun_03
+    100110: right_wall
+    100112: Rotate_stan
+    100114: Rotate_stan001
+    100116: Rotate_stan002
+    100118: Rotate_stan003
+    100120: stanina
+    100122: stanina001
+    100124: stanina002
+    100126: stanina003
+    100128: station
+    100130: ture_l1
+    100132: turel_2
+    100134: turel_3
+    100136: turel_4
+    100138: turel1
+    100140: turel2
+    100142: turel3
+    100144: turel4
+    100146: turel_1
+    400000: back_cogwheel
+    400002: back_gun_01
+    400004: back_gun_02
+    400006: back_gun_03
+    400008: back_wall
+    400010: //RootNode
+    400012: ch_shoot
+    400014: ch_shoot 1
+    400016: ch_shoot 10
+    400018: ch_shoot 11
+    400020: ch_shoot 12
+    400022: ch_shoot 13
+    400024: ch_shoot 2
+    400026: ch_shoot 3
+    400028: ch_shoot 4
+    400030: ch_shoot 5
+    400032: ch_shoot 6
+    400034: ch_shoot 7
+    400036: ch_shoot 8
+    400038: ch_shoot 9
+    400040: ch_shoot001
+    400042: ch_shoot002
+    400044: ch_shoot003
+    400046: ch_shoot004
+    400048: ch_shoot005
+    400050: ch_shoot006
+    400052: ch_shoot_flash
+    400054: front_cogwheel
+    400056: front_gun_01
+    400058: front_gun_02
+    400060: front_gun_03
+    400062: front_wall
+    400064: gan_tube
+    400066: gan_tube001
+    400068: gan_tube002
+    400070: gan_tube003
+    400072: Gun_left
+    400074: Gun_left001
+    400076: Gun_left002
+    400078: Gun_left003
+    400080: Gun_right
+    400082: Gun_right001
+    400084: Gun_right002
+    400086: Gun_right003
+    400088: left_cogwheel
+    400090: left_gun_01
+    400092: left_gun_02
+    400094: left_gun_03
+    400096: left_wall
+    400098: Object073
+    400100: Particle View 001
+    400102: right_cogwheel
+    400104: right_gun_01
+    400106: right_gun_02
+    400108: right_gun_03
+    400110: right_wall
+    400112: Rotate_stan
+    400114: Rotate_stan001
+    400116: Rotate_stan002
+    400118: Rotate_stan003
+    400120: stanina
+    400122: stanina001
+    400124: stanina002
+    400126: stanina003
+    400128: station
+    400130: ture_l1
+    400132: turel_2
+    400134: turel_3
+    400136: turel_4
+    400138: turel1
+    400140: turel2
+    400142: turel3
+    400144: turel4
+    400146: turel_1
+    2300000: back_cogwheel
+    2300002: back_gun_01
+    2300004: back_gun_02
+    2300006: back_gun_03
+    2300008: back_wall
+    2300010: front_cogwheel
+    2300012: front_gun_01
+    2300014: front_gun_02
+    2300016: front_gun_03
+    2300018: front_wall
+    2300020: gan_tube
+    2300022: gan_tube001
+    2300024: gan_tube002
+    2300026: gan_tube003
+    2300028: Gun_left
+    2300030: Gun_left001
+    2300032: Gun_left002
+    2300034: Gun_left003
+    2300036: Gun_right
+    2300038: Gun_right001
+    2300040: Gun_right002
+    2300042: Gun_right003
+    2300044: left_cogwheel
+    2300046: left_gun_01
+    2300048: left_gun_02
+    2300050: left_gun_03
+    2300052: left_wall
+    2300054: Object073
+    2300056: right_cogwheel
+    2300058: right_gun_01
+    2300060: right_gun_02
+    2300062: right_gun_03
+    2300064: right_wall
+    2300066: Rotate_stan
+    2300068: Rotate_stan001
+    2300070: Rotate_stan002
+    2300072: Rotate_stan003
+    2300074: stanina
+    2300076: stanina001
+    2300078: stanina002
+    2300080: stanina003
+    2300082: station
+    2300084: ture_l1
+    2300086: turel_2
+    2300088: turel_3
+    2300090: turel_4
+    2300092: //RootNode
+    2300094: turel1
+    2300096: turel2
+    2300098: turel3
+    2300100: turel4
+    2300102: turel_1
+    3300000: back_cogwheel
+    3300002: back_gun_01
+    3300004: back_gun_02
+    3300006: back_gun_03
+    3300008: back_wall
+    3300010: front_cogwheel
+    3300012: front_gun_01
+    3300014: front_gun_02
+    3300016: front_gun_03
+    3300018: front_wall
+    3300020: gan_tube
+    3300022: gan_tube001
+    3300024: gan_tube002
+    3300026: gan_tube003
+    3300028: Gun_left
+    3300030: Gun_left001
+    3300032: Gun_left002
+    3300034: Gun_left003
+    3300036: Gun_right
+    3300038: Gun_right001
+    3300040: Gun_right002
+    3300042: Gun_right003
+    3300044: left_cogwheel
+    3300046: left_gun_01
+    3300048: left_gun_02
+    3300050: left_gun_03
+    3300052: left_wall
+    3300054: Object073
+    3300056: right_cogwheel
+    3300058: right_gun_01
+    3300060: right_gun_02
+    3300062: right_gun_03
+    3300064: right_wall
+    3300066: Rotate_stan
+    3300068: Rotate_stan001
+    3300070: Rotate_stan002
+    3300072: Rotate_stan003
+    3300074: stanina
+    3300076: stanina001
+    3300078: stanina002
+    3300080: stanina003
+    3300082: station
+    3300084: ture_l1
+    3300086: turel_2
+    3300088: turel_3
+    3300090: turel_4
+    3300092: //RootNode
+    3300094: turel1
+    3300096: turel2
+    3300098: turel3
+    3300100: turel4
+    3300102: turel_1
+    4300000: station
+    4300002: back_wall
+    4300004: back_gun_02
+    4300006: back_gun_03
+    4300008: back_gun_01
+    4300010: back_cogwheel
+    4300012: right_wall
+    4300014: right_gun_03
+    4300016: right_cogwheel
+    4300018: right_gun_02
+    4300020: right_gun_01
+    4300022: front_wall
+    4300024: front_gun_03
+    4300026: front_cogwheel
+    4300028: front_gun_02
+    4300030: front_gun_01
+    4300032: left_wall
+    4300034: left_gun_01
+    4300036: left_cogwheel
+    4300038: left_gun_02
+    4300040: left_gun_03
+    4300042: Object073
+    4300044: turel_4
+    4300046: stanina003
+    4300048: Rotate_stan003
+    4300050: Gun_left003
+    4300052: gan_tube003
+    4300054: Gun_right003
+    4300056: turel_3
+    4300058: stanina
+    4300060: Rotate_stan
+    4300062: Gun_left
+    4300064: gan_tube
+    4300066: Gun_right
+    4300068: turel_2
+    4300070: stanina001
+    4300072: Rotate_stan001
+    4300074: Gun_left001
+    4300076: gan_tube001
+    4300078: Gun_right001
+    4300080: ture_l1
+    4300082: stanina002
+    4300084: Rotate_stan002
+    4300086: Gun_left002
+    4300088: gan_tube002
+    4300090: Gun_right002
+    4300092: turel4
+    4300094: turel2
+    4300096: turel_1
+    4300098: turel1
+    4300100: turel3
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 0
+  userData: 

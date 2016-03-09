@@ -1,0 +1,25 @@
+{
+"Cannons":{
+  "Leaner": {
+   "health":1,
+   "RotationSpeed":1,
+   "ShootSpeed":5,
+   "Distance":10
+  },
+ 
+  "Rotation": {
+   "health":1,
+   "RotationSpeed":1,
+   "ShootSpeed":5,
+  "Distance":10
+  },
+ 
+  "Mortar": {
+   "health":1,
+   "RotationSpeed":1,
+   "ShootSpeed":5,
+  "Distance":50
+  }
+
+ }
+}

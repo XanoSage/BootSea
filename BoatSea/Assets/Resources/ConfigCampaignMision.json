@@ -1,0 +1,50 @@
+{
+"Island1":{
+  "Mission1":{
+   	 "MapName":"MachineCity",
+	 "MissionType":"CaptureTheFlag",
+	 "PlayerShip":"",
+	 "PlayerShipCount":1,
+	 "EnemiesShips":"1",
+	 "Bots":2,
+	 "MissionValue":10
+	 
+  },
+  "Mission2":{
+	"MapName":"Atlantida",
+ 	"MissionType":"DeathMath",
+ 	"PlayerShip":"allasda",
+ 	"PlayerShipCount":1,
+ 	"EnemiesShips":"1",
+ 	"Bots":2,
+ 	"MissionValue":10
+  },
+    "Mission3":{
+	"MapName":"Atlantida",
+ 	"MissionType":"BaseDefense",
+ 	"PlayerShip":"BigMetal",
+ 	"PlayerShipCount":1,
+ 	"EnemiesShips":"1",
+ 	"Bots":2,
+ 	"MissionValue":10
+  },
+    "Mission4":{
+	"MapName":"Atlantida",
+ 	"MissionType":"NavalConvoys",
+ 	"PlayerShip":"BigMetal",
+ 	"PlayerShipCount":1,
+ 	"EnemiesShips":"1",
+ 	"Bots":2,
+ 	"MissionValue":10
+  },
+    "Mission5":{
+	"MapName":"Atlantida",
+ 	"MissionType":"Survival",
+ 	"PlayerShip":"BigMetal",
+ 	"PlayerShipCount":1,
+ 	"EnemiesShips":"1",
+ 	"Bots":2,
+ 	"MissionValue":10
+  }
+ }
+}
